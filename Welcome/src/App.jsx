@@ -7,7 +7,7 @@ import PuzzleDifficulty from './pages/PuzzleDifficulty';
 import EasyPuzzle from './pages/puzzle/EasyPuzzle';
 import MediumPuzzle from './pages/puzzle/MediumPuzzle';
 import HardPuzzle from './pages/puzzle/HardPuzzle';
-import ThisOrThat from './components/ThisorThat';
+import ThisOrThat from './components/ThisOrThat';
 import MoodPicker from './components/MoodPicker';
 import ContactPage from './components/ContactPage';
 
