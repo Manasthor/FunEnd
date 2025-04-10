@@ -10,7 +10,7 @@ const Frontpage = () => {
     setAnimate(true);
     setTimeout(() => {
       navigate('/second');
-    }, 1000); // wait for animation to finish
+    }, 1000); // wait for animation to finish itself
   };
 
   return (
